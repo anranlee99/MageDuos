@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mageduos/static/css/main.ce231f31.css",
-    "main.js": "/mageduos/static/js/main.ad41c99b.js",
-    "static/js/787.311278a8.chunk.js": "/mageduos/static/js/787.311278a8.chunk.js",
-    "index.html": "/mageduos/index.html",
-    "main.ce231f31.css.map": "/mageduos/static/css/main.ce231f31.css.map",
-    "main.ad41c99b.js.map": "/mageduos/static/js/main.ad41c99b.js.map",
-    "787.311278a8.chunk.js.map": "/mageduos/static/js/787.311278a8.chunk.js.map"
+    "main.css": "/MageDuos/static/css/main.ce231f31.css",
+    "main.js": "/MageDuos/static/js/main.203b0f1b.js",
+    "static/js/787.311278a8.chunk.js": "/MageDuos/static/js/787.311278a8.chunk.js",
+    "index.html": "/MageDuos/index.html",
+    "main.ce231f31.css.map": "/MageDuos/static/css/main.ce231f31.css.map",
+    "main.203b0f1b.js.map": "/MageDuos/static/js/main.203b0f1b.js.map",
+    "787.311278a8.chunk.js.map": "/MageDuos/static/js/787.311278a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce231f31.css",
-    "static/js/main.ad41c99b.js"
+    "static/js/main.203b0f1b.js"
   ]
 }
